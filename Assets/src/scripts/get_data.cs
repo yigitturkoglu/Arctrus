@@ -6,7 +6,7 @@ using UnityEngine.Networking;
 public class get_data : MonoBehaviour
 {
 
-    public string url = "http://blynk-cloud.com/TOSrwd4SoZgOMEVy923qm_Pf9yQ0YMGp/get/V1";
+    public string url = "token";
 
     string data_value_loc;
     public static string data_value;
